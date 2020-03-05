@@ -1,7 +1,4 @@
 .git
 node_modules
-packages/client/node_modules
-packages/server/node_modules
-packages/client/build
-packages/server/build
-build
+packages/**/node_modules
+packages/**/build
